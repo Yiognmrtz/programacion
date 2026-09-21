@@ -7,5 +7,6 @@ public class EscribeNombre {
         Scanner teclado = new Scanner(System.in);
         System.out.println(" Escribe tu nombre: ");
         String nombre = teclado.nextLine(); 
+        System.out.println("Tu nombre es: " + nombre);
     }
-}
+    }
