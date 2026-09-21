@@ -1,0 +1,11 @@
+//Ejercicio 2
+//Escribe una programa que muestre tu nombre por pantalla.
+import java.util.Scanner;
+
+public class EscribeNombre {
+    public static void main (String[] args) {
+        Scanner teclado = new Scanner(System.in);
+        System.out.println(" Escribe tu nombre: ");
+        String nombre = teclado.nextLine(); 
+    }
+}
