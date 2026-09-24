@@ -1,4 +1,3 @@
-
 public class datos {
     public static void main (String[] args) {
         System.out.println(" Nombre  Direccion     Nº telefomo");
