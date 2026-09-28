@@ -15,4 +15,9 @@ este repositorio es para guardar proyectos y ejercicios del modulo de *Programac
 | **Ejercicio 5** | Horario de clase https://github.com/Yiognmrtz/programacion/blob/main/Tema01/horario.java |
 | ... | ... |
 
+## Tema 2 - Programacion Elemental
+
+| Ejercicio | Descripción |
+| :--- | :--- |
+| **Ejercicio 0** | Conversor de temperatura (https://github.com/Yiognmrtz/programacion/blob/main/Tema02/CambioTemperatura.java)|
 ---
