@@ -23,4 +23,5 @@ este repositorio es para guardar proyectos y ejercicios del modulo de *Programac
 | **Ejercicio 1** | Calcular el sueldo (https://github.com/Yiognmrtz/programacion/blob/main/Tema02/Sueldo.java)|
 | **Ejercicio 2** | Calcular el volumen de un cono https://github.com/Yiognmrtz/programacion/blob/main/Tema02/Volumen.java|
 | **Ejercicio 3** | Conversor de Mb a Kb https://github.com/Yiognmrtz/programacion/blob/main/Tema02/ConversorKilos.java|
+| **Ejercicio 4** | Conversor de Kb a Mb https://github.com/Yiognmrtz/programacion/blob/main/Tema02/ConversorMegas.java|
 ---
