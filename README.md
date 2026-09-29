@@ -20,4 +20,7 @@ este repositorio es para guardar proyectos y ejercicios del modulo de *Programac
 | Ejercicio | Descripción |
 | :--- | :--- |
 | **Ejercicio 0** | Conversor de temperatura (https://github.com/Yiognmrtz/programacion/blob/main/Tema02/CambioTemperatura.java)|
+| **Ejercicio 1** | Calcular el sueldo (https://github.com/Yiognmrtz/programacion/blob/main/Tema02/Sueldo.java)|
+| **Ejercicio 2** | Calcular el volumen de un cono https://github.com/Yiognmrtz/programacion/blob/main/Tema02/Volumen.java|
+
 ---
