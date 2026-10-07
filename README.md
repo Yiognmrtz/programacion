@@ -25,3 +25,11 @@ este repositorio es para guardar proyectos y ejercicios del modulo de *Programac
 | **Ejercicio 3** | Conversor de Mb a Kb https://github.com/Yiognmrtz/programacion/blob/main/Tema02/ConversorKilos.java|
 | **Ejercicio 4** | Conversor de Kb a Mb https://github.com/Yiognmrtz/programacion/blob/main/Tema02/ConversorMegas.java|
 ---
+## Tema 3 - Selecciones
+
+| Ejercicio | Descripción |
+| :--- | :--- |
+| **Ejercicio 0** | Calcular si un año es bisiesto o no https://github.com/Yiognmrtz/programacion/blob/main/Tema03/AñoBisiesto.java|
+| **Ejercicio 1** | Saber si es mayor o menor de edad https://github.com/Yiognmrtz/programacion/blob/main/Tema03/MayorEdad.java|
+| **Ejercicio 2** | Saber que numero es mayor https://github.com/Yiognmrtz/programacion/blob/main/Tema03/NumeroMayor.java|
+| **Ejercicio 3** | Saber que numero es mayor https://github.com/Yiognmrtz/programacion/blob/main/Tema03/NumeroMayor.java|
