@@ -33,3 +33,9 @@ este repositorio es para guardar proyectos y ejercicios del modulo de *Programac
 | **Ejercicio 1** | Saber si es mayor o menor de edad https://github.com/Yiognmrtz/programacion/blob/main/Tema03/MayorEdad.java|
 | **Ejercicio 2** | Saber que numero es mayor https://github.com/Yiognmrtz/programacion/blob/main/Tema03/NumeroMayor.java|
 | **Ejercicio 3** | Saber que numero es mayor https://github.com/Yiognmrtz/programacion/blob/main/Tema03/NumeroMayor.java|
+
+## Tema 4 - Métodos matemáticos, caracteres y cadenas
+
+| Ejercicio | Descripción |
+| :--- | :--- |
+| **Ejercicio 0** | Introduce 5 notas... https://github.com/Yiognmrtz/programacion/blob/main/Tema04/LaNota.java|
